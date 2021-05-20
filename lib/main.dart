@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
-import 'package:sh_project/DashboardTest.dart';
+import 'file:///C:/Users/Mariem/AndroidStudioProjects/sh_project/lib/screens/DashboardTest.dart';
 
-import 'CustomDatabase.dart';
-import 'Dashboard.dart';
+import 'screens/CustomDatabase.dart';
+import 'screens/Dashboard.dart';
 
 void main() {
   runApp(MyApp());
